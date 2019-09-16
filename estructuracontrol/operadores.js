@@ -1,0 +1,8 @@
+/**OPERADORRES ARITMETICOS */
+/**
+ * %, >, >=, <, <=, +, -, !=
+ */
+
+/**OPERADORRES LOGICOS
+ * &&, ||, !
+ */
