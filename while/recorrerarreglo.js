@@ -17,5 +17,23 @@ while (contador < nombres.length) {
     console.log(nombres[contador]);
     contador = contador + 3;
 }
+/**
+ * RETO:
+ * LLenar un arreglo con 20 numeros aleatorios
+ * usando el ciclo while y la libreria Math(Math.random)
+ */
+/**
+ * RETO:
+ * LLenar un arreglo con 20 numeros aleatorios
+ * usando el ciclo while y la libreria Math(Math.random)
+ * y calcular el promedio de los numeros.
+ */
+/**
+ * RETO:
+ * LLenar un arreglo con 20 numeros aleatorios
+ * usando el ciclo while y la libreria Math(Math.random)
+ * y calcular el promedio de los numeros impares.
+ */
+
 
 
